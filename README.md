@@ -27,7 +27,8 @@ https://developer.themoviedb.org/docs/getting-started
 * Add To Watch Feature
 
 ### Technology
-* Swift 5.9
+* Swift 5.9 
+* UIKit
 * XCode 15
 * Firebase
 
