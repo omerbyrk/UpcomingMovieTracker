@@ -110,12 +110,12 @@
 			path = extensions;
 			sourceTree = "<group>";
 		};
-		C8D141922BF9CC9B00BD1B87 /* screenshots */ = {
+		C8D141922BF9CC9B00BD1B87 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
 				C8D141932BF9CCAB00BD1B87 /* Home.png */,
 			);
-			path = screenshots;
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 		C8D39C302BF3B7AF00493932 /* movies */ = {
@@ -169,7 +169,7 @@
 		C8F3C02C2BEF37BF0077F2E6 /* UpcomingMovieTracker */ = {
 			isa = PBXGroup;
 			children = (
-				C8D141922BF9CC9B00BD1B87 /* screenshots */,
+				C8D141922BF9CC9B00BD1B87 /* Screenshots */,
 				C8F3C0472BEF41870077F2E6 /* Common */,
 				C8F3C0462BEF416C0077F2E6 /* Modules */,
 				C8F3C0452BEF41670077F2E6 /* UI */,
